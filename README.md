@@ -29,11 +29,11 @@ I used OneCompiler as an editor for the SQL.
 - There were total of 300 initial trips.
 - One ride had a duplicate. I deleted the duplicate, leaving us with the total trip of 299.
 -  9 rides recorded their fares missing.
--  Lagos generated the highest revenue, followed by Accra, Abuja, Port Harcourt, etc.
--  The highest number of trips were done using the Economy vehicles.
+-  Lagos generated the highest revenue-#218,890, followed by Accra-#92,640, Abuja-#88,720, Port Harcourt-#73,790, etc.
+-  The highest number of trips (121) were done using the Economy vehicles.
 -  Customer Chioma Nwosu recorded the highest number of trips. She spent #38,950, and her city is Lagos.
 -  4 customers never booked a ride. Two are from Nairobi, one from Lagos, and the other from Kampala.
--  December 2025 recorded the highest ride and revenue 
+-  December 2025 recorded the highest number of trips and revenue (31 trips, #66,980). 
 ## PROJECT PREVIEW
 ![ZOOMRIDE](Screenshot_ZOOMRIDE_2026.png)
 
